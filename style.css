@@ -1,0 +1,212 @@
+.body{
+    background-image: url(./bg\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 769px;
+
+}
+.re{
+    margin-left: 669px;
+    margin-top: 40px;
+}
+.wq {
+    width: 576px;
+    height: 90px;
+    margin-top: 310px;
+    margin-left: 465px;
+    color: white;
+    font-family:serif;
+    font-size: 40px;
+    
+}
+.po{
+    width: 386px;
+    height: 22px;
+    margin-top: -70px;
+    margin-left: 550px;
+    font-size: 18px;
+    font-family: serif;
+    color: white;
+}
+.lo{
+    color: white;
+    width: 117px;
+    height: 15px;
+    margin-left: 667px;
+    margin-top: 230px;
+}
+.yy{
+    width: 100%;
+    height: 65px;
+    background-color: white;
+    display: flex;
+    gap: 40px;
+    box-shadow: 3px 3px 3px black;
+    
+    
+}
+.mm{
+    color: rgb(0, 0, 255) ;
+
+}
+.kk{
+    margin-left: 80px;
+    margin-top: 20px;
+    height: 20px;
+}
+.uu{
+    margin-left: 550px;
+    display: flex;
+    gap: 50px;
+    font-size: 15px;
+    font-weight: 10px;
+}
+.tr{
+    width: 1280px;
+    background-color:white;
+    height: 400px;
+    padding: 50px;
+}
+.mn{
+    background-color:white;
+    margin-left: 200px;
+    width: 1000px;
+    align-items: center;
+    height: 344px;
+}
+
+.dd{
+   margin-left: 400px;
+   font-size: 20px;
+   color: grey;
+}
+.ll{
+    width: 405px ;
+    height: 81px ;
+    margin-left: 10px;
+    color: gray;
+    
+}
+.ff{
+    width: 405px ;
+    height: 81px ;
+    margin-left: 10px;
+    color: rgb(185, 172, 172);
+
+}
+.kj{
+    margin-left: 500px;
+    margin-top: -220px;
+}
+.mav{
+    background-color: white;
+    width: 100%;
+    height: 65px;
+    display: flex;
+
+}
+.tyt{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.opa{
+    width: 500px;
+    margin-left: 350px;
+
+}
+.bl{
+    background-color: rgb(148, 148, 249);
+    color: white;
+    height: 55px;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+.kola{
+    width: 940px;
+    height: 335px;
+    background-color:white;
+    margin-left: 250px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.haha{
+    width: 295px ;
+    height: 330px;
+    border: 2px solid grey;
+    color: gray;
+}
+.lolo{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.roro{
+    margin-left: 20px;
+    font-family: serif;
+    font-size: 15px;
+}
+.we{
+    margin-left: 20px;
+
+}
+.bobo{
+    width: 100%;
+    height: 499px;
+    background-image: url(./bg.png);
+    background-repeat: no-repeat;
+}
+.xs{
+    width: 300px;
+    height: 72px;
+    margin-left: 545px;
+    margin-top: 300px;
+    color: gray;
+}
+.vava{
+    color: white;
+    background-color: rgb(55, 55, 200);
+    margin-left: 570px;
+    margin-top: -50px;
+    width: 200px;
+    height: 50px;
+}
+.jojo{
+    width: 100%;
+    height: 100px;
+    background-color: #171819;
+    display: flex;
+    
+
+}
+.toto{
+    color: white;
+    font-size: 29px;
+    font-family: serif;
+    margin-left: 200px;
+}
+.lopp{
+    width: 250px;
+    height: 35px;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.kaka{
+    background-color: #00A4E5;
+    color: white;
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+
+}
+.kiki{
+    background-color: #141A20;
+    width: 100%;
+    height: 400px;
+}
+.mk{
+    width: 250px;
+    height: 90px;
+
+}
+
+
